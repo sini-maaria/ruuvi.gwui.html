@@ -14,7 +14,7 @@
 }
 
 #app {
-    padding: 10px 35px;
+    padding: 30px 35px 20px 35px;
     max-width: 600px;
     min-height: 600px;
     height: auto;
@@ -43,7 +43,7 @@ div#app-wrap {
 header {
     height: 60px;
     font-family: "Montserrat", sans-serif;
-    font-weight: 900;
+    font-weight: 800;
     font-style: normal;
     font-size: 36px;
     text-align: center;
@@ -81,6 +81,7 @@ h1 {
     font-size: 18px;
     text-align: center;
     color: var(--color-subtitle);
+    margin: 0 0 20px 0;
 }
 
 h2 {
